@@ -49,3 +49,4 @@ import {useAuth} from "../context/AuthContext.jsx";
         </div>
     );
  }
+export default Login;
